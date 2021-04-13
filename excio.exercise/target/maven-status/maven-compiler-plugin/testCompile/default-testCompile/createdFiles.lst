@@ -1,0 +1,4 @@
+com\dobradovic\pages\Inventory.class
+com\dobradovic\tests\LoginTest.class
+com\dobradovic\pages\Login.class
+com\dobradovic\tests\SortProducts.class
